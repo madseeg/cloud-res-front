@@ -1,4 +1,4 @@
-[![CI CloudRes Front Status](https://github.com/madseeg/cloud-res-front/actions/workflows/ci.yml/badge.svg)](https://github.com/madseeg/cloud-res-front/actions/)
+[![CI CloudRes Front Status](https://github.com/madseeg/cloud-res-front/actions/workflows/syncfront-s3.yml/badge.svg)](https://github.com/madseeg/cloud-res-front/actions/)
 
 # cloud-res-front
 
